@@ -1,0 +1,59 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "1st Post",
+      "body": "The first post body is here",
+      "publishedAt": "03-30-2021"
+    },
+    {
+      "id": "2",
+      "title": "2nd Post",
+      "body": "The second post body is here",
+      "publishedAt": "03-30-2021"
+    },
+    {
+      "id": "3",
+      "title": "3rd Post",
+      "body": "The third post body is here",
+      "publishedAt": "03-30-2021"
+    },
+    {
+      "id": "4",
+      "title": "4th Post",
+      "body": "The fourth post body is here",
+      "publishedAt": "03-30-2021"
+    },
+    {
+      "id": "5",
+      "title": "5th Post",
+      "body": "The fifth post body is here",
+      "publishedAt": "03-30-2021"
+    },
+    {
+      "id": "6",
+      "title": "6th Post",
+      "body": "The sixth post body is here",
+      "publishedAt": "03-30-2021"
+    },
+    {
+      "id": "7",
+      "title": "7th Post",
+      "body": "The seventh post body is here",
+      "publishedAt": "03-30-2021"
+    },
+    {
+      "title": "8th Post",
+      "body": "The eighth post body is here",
+      "publishedAt": "2021-03-30",
+      "id": "MAby2tg"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Omar Mohamed",
+      "email": "omarpilot11@gmail.com"
+    }
+  ]
+}
